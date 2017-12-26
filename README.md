@@ -16,7 +16,7 @@ Build
 yarn build:prod
 ````
 
-Add home.css and home.js to index.html
+Add home.css and home.js to index.html (Production)
 ```
 <link rel="stylesheet" href="home.[hash].css" />
 <script src="dist/home.[hash].js" ></script>
