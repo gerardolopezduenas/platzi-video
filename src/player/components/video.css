@@ -1,0 +1,9 @@
+.Video {
+  width: inherit;
+}
+
+.Video video {
+  vertical-align: inherit;
+  object-fit: fill;
+  width: inherit;
+}
